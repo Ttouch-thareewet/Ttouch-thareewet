@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am T-touch Thareewet(Praram you can call me ram)
 
 <!--
 **Ttouch-thareewet/Ttouch-thareewet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
