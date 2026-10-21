@@ -1,5 +1,13 @@
-### Hi there 👋
-I am T-touch Thareewet(Praram you can call me ram)
+### Hi there 👋 I'm T-touch (Ram)
+
+Final-year Computer Engineering student at Chulalongkorn University, interested in **Quantitative Research, Machine Learning, and AI Research**.
+
+- 🔬 Quantitative Alpha Researcher at WorldQuant BRAIN
+- 🤖 Former AI Engineer Intern at NECTEC
+- 🧠 Exploring Transformers, Deep Learning, and Retrieval-Augmented Generation
+- 🛠️ Python, PyTorch, SQL, FastAPI
+
+**Current focus:** Building machine learning models from scratch and exploring quantitative research.
 
 <!--
 **Ttouch-thareewet/Ttouch-thareewet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
